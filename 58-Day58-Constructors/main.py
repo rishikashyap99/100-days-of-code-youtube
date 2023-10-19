@@ -14,6 +14,6 @@ b = Person("Divya", "HR")
 a.info()
 b.info()
 # print(a.name)
-# a.name = "Divya"
-# a.occ = "HR"
-# a.info()
+a.name = "Divya"
+a.occ = "HR"
+a.info()
